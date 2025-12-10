@@ -1,8 +1,4 @@
 <!-- PROJECT LOGO -->
-<p align="center">
-  <img src="https://img.icons8.com/?size=512&id=117564&format=png" width="120" alt="AI Logo"/>
-</p>
-
 <h1 align="center">CareerPath AI</h1>
 
 <p align="center">
