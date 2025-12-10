@@ -242,9 +242,25 @@ PRs, issues, and suggestions are welcome!
 
 ---
 
-## 📜 License
-MIT License © 2025
+## 📜 License & Copyright
 
+This project, **CareerPath AI**, is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0) License**.
+
+Copyright © 2025 VARUN SANDESH.
+
+### Key Permissions (What You CAN Do):
+
+* **Share:** Copy and redistribute the material in any medium or format.
+* **Adapt:** Remix, transform, and build upon the material.
+
+### Key Restrictions (What You MUST Follow):
+
+1.  **Attribution (BY):** You must give appropriate credit, provide a link to the CC BY-NC 4.0 license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+2.  **NonCommercial (NC):** **You may not use this material for commercial purposes.** This includes selling the software, paid hosting, or offering it as a paid service.
+3.  **No Additional Restrictions:** You may not apply legal terms or technological measures that restrict others from doing anything the license permits.
+
+For the full legal code, please refer to the official license text:
+[https://creativecommons.org/licenses/by-nc/4.0/legalcode](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 ---
 
 <p align="center">
